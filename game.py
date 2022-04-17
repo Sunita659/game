@@ -5,7 +5,7 @@ clock=pygame.time.Clock()
 
 screen = pygame.display.set_mode((400,600))
 font1=pygame.font.Font("freesansbold.ttf,26")
-font2=pygame.font.Font("freesansbold.ttf,26")
+font1=pygame.font.Font("freesansbold.ttf",26)
 
 
 
